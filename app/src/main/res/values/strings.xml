@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">volley_kotlin</string>
+    <string name="registro_titulo">Registro</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_correo">Correo</string>
+    <string name="hint_curso">Nombre curso</string>
+    <string name="hint_pass">Contraseña</string>
+    <string name="btn_registro">Registrar</string>
+    <string name="txt_title_login">Login Estudiante</string>
+    <string name="hint_mail_login">Email</string>
+    <string name="hint_pass_login">Password</string>
+    <string name="text_btnLogin">Ingresar</string>
+    <string name="text_btnRegistro">Registro</string>
+</resources>
